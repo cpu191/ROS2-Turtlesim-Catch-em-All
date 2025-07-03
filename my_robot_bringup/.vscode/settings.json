@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tim/project/ros2_course/ros2_ws/build/my_py_pkg",
+        "/home/tim/project/ros2_course/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/tim/project/ros2_course/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/tim/project/ros2_course/ros2_ws/install/led_panel_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tim/project/ros2_course/ros2_ws/build/my_py_pkg",
+        "/home/tim/project/ros2_course/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/tim/project/ros2_course/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/tim/project/ros2_course/ros2_ws/install/led_panel_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

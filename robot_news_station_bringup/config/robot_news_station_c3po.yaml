@@ -1,0 +1,3 @@
+/robot_news_station_c3po:
+  ros__parameters:
+    robot_name: "c3po"
